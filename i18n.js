@@ -1,7 +1,7 @@
 window.I18N = {
 lo: {
 "meta.title":"RB HOME LAOS – ອອກແບບ ແລະ ກໍ່ສ້າງເຮືອນ–ວິນລາ ຄົບວົງຈອນ ໃນວຽງຈັນ",
-"nav.about":"ກ່ຽວກັບເຮົາ","nav.services":"ບໍລິການ","nav.projects":"ຜົນງານ","nav.process":"ຂັ້ນຕອນ","nav.careers":"ຮັບສະໝັກງານ","nav.contact":"ຕິດຕໍ່",
+"nav.estimate":"ປະເມີນລາຄາ","cta.estimate":"ປະເມີນລາຄາກໍ່ສ້າງ ຟຣີ","nav.about":"ກ່ຽວກັບເຮົາ","nav.services":"ບໍລິການ","nav.projects":"ຜົນງານ","nav.process":"ຂັ້ນຕອນ","nav.careers":"ຮັບສະໝັກງານ","nav.contact":"ຕິດຕໍ່",
 "cta.consult":"ປຶກສາຟຣີ","cta.free":"ຮັບ Layout + 3D ຟຣີ","cta.projects":"ເບິ່ງຜົນງານ",
 "hero.title":"ສ້າງ<span class='gold-text'>ເຮືອນໃນຝັນ</span><br>ຂອງທ່ານ ໃນນະຄອນຫຼວງວຽງຈັນ",
 "hero.sub":"RB HOME LAOS ຮັບອອກແບບ ແລະ ກໍ່ສ້າງເຮືອນ–ວິນລາ ແບບຄົບວົງຈອນ (Turnkey) – ຕັ້ງແຕ່ແນວຄິດ, ແບບ 3D, ການກໍ່ສ້າງ ຈົນມອບກະແຈ ແລະ ດູແລຕະຫຼອດອາຍຸການໃຊ້ງານ.",
@@ -76,7 +76,7 @@ lo: {
 },
 en: {
 "meta.title":"RB HOME LAOS – Villa Design & Turnkey Construction in Vientiane",
-"nav.about":"About","nav.services":"Services","nav.projects":"Projects","nav.process":"Process","nav.careers":"Careers","nav.contact":"Contact",
+"nav.estimate":"Cost estimate","cta.estimate":"Free cost estimate","nav.about":"About","nav.services":"Services","nav.projects":"Projects","nav.process":"Process","nav.careers":"Careers","nav.contact":"Contact",
 "cta.consult":"Free consultation","cta.free":"Get a free layout + 3D","cta.projects":"View projects",
 "hero.title":"Building your <span class='gold-text'>dream home</span><br>in Vientiane",
 "hero.sub":"RB HOME LAOS designs and builds houses and villas end to end – from concept and 3D design through construction to key handover, with care for the lifetime of your home.",
@@ -151,7 +151,7 @@ en: {
 },
 vi: {
 "meta.title":"RB HOME LAOS – Thiết kế & xây nhà trọn gói tại Viêng Chăn",
-"nav.about":"Giới thiệu","nav.services":"Dịch vụ","nav.projects":"Dự án","nav.process":"Quy trình","nav.careers":"Tuyển dụng","nav.contact":"Liên hệ",
+"nav.estimate":"Dự toán","cta.estimate":"Dự toán chi phí miễn phí","nav.about":"Giới thiệu","nav.services":"Dịch vụ","nav.projects":"Dự án","nav.process":"Quy trình","nav.careers":"Tuyển dụng","nav.contact":"Liên hệ",
 "cta.consult":"Tư vấn miễn phí","cta.free":"Nhận layout + 3D miễn phí","cta.projects":"Xem dự án",
 "hero.title":"Kiến tạo <span class='gold-text'>ngôi nhà mơ ước</span><br>tại Viêng Chăn",
 "hero.sub":"RB HOME LAOS thiết kế và thi công nhà ở, biệt thự trọn gói – từ ý tưởng, phối cảnh 3D, thi công đến bàn giao chìa khóa và chăm sóc trọn đời công trình.",
@@ -226,7 +226,7 @@ vi: {
 },
 zh: {
 "meta.title":"RB HOME LAOS – 万象别墅设计与交钥匙建造",
-"nav.about":"关于我们","nav.services":"服务","nav.projects":"项目","nav.process":"流程","nav.careers":"招聘","nav.contact":"联系",
+"nav.estimate":"造价估算","cta.estimate":"免费造价估算","nav.about":"关于我们","nav.services":"服务","nav.projects":"项目","nav.process":"流程","nav.careers":"招聘","nav.contact":"联系",
 "cta.consult":"免费咨询","cta.free":"免费获取平面图 + 3D","cta.projects":"查看项目",
 "hero.title":"在万象打造<br>您的<span class='gold-text'>梦想之家</span>",
 "hero.sub":"RB HOME LAOS 提供住宅与别墅一站式设计建造服务——从方案构思、3D效果图、施工到交钥匙，并终身维护您的房屋。",
